@@ -1,0 +1,14 @@
+
+li {
+    list-style: none;
+}
+
+.sobremi {
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-image: url(img/spider.jpg);
+    background-size: cover;
+}
+
